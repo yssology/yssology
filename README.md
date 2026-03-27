@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://nirzak-streak-stats.vercel.app?user=leetency&theme=catppuccin-frappe" alt="GitHub Streak">
+    <img src="https://nirzak-streak-stats.vercel.app?user=yssology&theme=catppuccin-frappe" alt="GitHub Streak">
   </a>
 </p>
 <br>
